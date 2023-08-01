@@ -1,2 +1,2 @@
-# Classes
+# Developent
 This was an activity completed in a second year module (CMPG221) and while the code itsself may be simple it had a tremendous impact on the way I thought (and still do think) about programming, the program is a simple one making use of classes namely a linked list class, a property class with 2 subclasses flat and house and a test class where the main function is run. It had such a profound impact because it allowed me to start thinking about implementing object oriented programming in many different ways. 
