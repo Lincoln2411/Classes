@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ House\ here.\r\n\r\n\ @author\ (35029617)\r\n\ @version\ (2021/08/13)\r\n
+comment1.params=
+comment1.target=House()
+comment2.params=bathrooms\ size\ rooms\ parking
+comment2.target=House(int,\ double,\ int,\ int)
+comment3.params=
+comment3.target=int\ getbathrooms()
+comment4.params=
+comment4.target=double\ getsize()
+comment5.params=bathrooms
+comment5.target=void\ setbathrooms(int)
+comment6.params=size
+comment6.target=void\ setsize(double)
+comment7.params=
+comment7.target=double\ getPrice()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=f
+comment9.target=int\ compareTo(Property)
+numComments=10
